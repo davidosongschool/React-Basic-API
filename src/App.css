@@ -1,0 +1,26 @@
+
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background: rgb(218,234,240);
+  background-repeat: repeat-x;
+  position: relative;
+}
+
+.ContainLogin {
+  background-color: white !important;
+  height: 300px;
+  margin-top: 10vh;
+  border-radius: 15px;
+}
+
+.getNews {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px;
+  height: 80px;
+  font-size: 2rem !important;
+}
+
